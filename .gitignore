@@ -28,3 +28,4 @@ template.pdf
 
 # Temporary files
 *~
+.Rproj.user
